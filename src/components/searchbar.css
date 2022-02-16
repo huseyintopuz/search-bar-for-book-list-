@@ -1,0 +1,36 @@
+.search-bar {
+    padding-top: 1rem;
+}
+.search-inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.text-field {
+    width: 20rem;
+}
+.search-icon {
+    margin-left: 0.2rem;
+}
+.search-list {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5rem;
+}
+.value-item {
+    font-weight: 600;
+}
+.value-item p:hover {
+    color: #1976D2;
+}
+.image {
+    width: 5rem;
+    cursor: pointer;
+}
+img {
+    margin-top: 0.2rem;
+}
+img:hover {
+    width: 10rem;
+}
